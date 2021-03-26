@@ -1,3 +1,25 @@
+https://nqat.me/ ( Laravel+Vue.js)
+vue_laravel_one.jpg
+
+https://www.johnfowlerholidays.com/
+vue_laravel_two.jpg (Laravel+ Vue.js)
+
+https://pinpoint.promo/ (Laravel)
+laravel_one.jpg
+
+http://pinklistens.com/ (.Net + Angular)
+angular_net_one.jpg
+
+
+https://crmgrow.com/ (Angular + Node.js)
+https://app.crmgrow.com/
+angular_node_one.jpg
+
+https://letsusedata.com/Default2.html (.Net+Angular)
+angular_net_two.jpg
+
+
+_______________________________________________________
 djangoone:
 https://www.thelmandlouise.com 
 djangotwo:
@@ -16,3 +38,6 @@ reactone:
 https://carlinwright.com (React.js)
 reacttwo:
 https://jordielias.net (React.js)
+
+laravelone.jpeg:
+http://7agencies.com
